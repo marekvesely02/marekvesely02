@@ -28,7 +28,13 @@ I am currently developing the **INJECT Exercise Platform**, a specialized tool f
 ---
 
 ### Education
-See my academic profile on the [MUNI website](https://www.muni.cz/lide/524958-marek-vesely).
+**Masaryk University, Faculty of Informatics**
+
+* **Master’s in Software Engineering** (2024 – Present)
+  * Specialization: *Design and development of software systems*
+* **Bachelor’s in Programming and Development** (Completed 2024)
+  * **Thesis:** *Analyst View for Instructors and Designers of Tabletop Exercises*
+  * 🏆 **Recipient of the Dean's Award** for an Outstanding Final Thesis.
 
 ---
 
@@ -39,3 +45,4 @@ See my academic profile on the [MUNI website](https://www.muni.cz/lide/524958-ma
 | 💼 **LinkedIn** | [linkedin.com/in/marekvesely02](https://www.linkedin.com/in/marekvesely02/) |
 | 📸 **Instagram** | [@marekvesely02](https://www.instagram.com/marekvesely02/) |
 | 📧 **Email** | [marekvesely02@email.cz](mailto:marekvesely02@email.cz) |
+| 🏫 **University** | [MUNI Profile](https://www.muni.cz/lide/524958-marek-vesely) |
