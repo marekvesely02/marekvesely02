@@ -5,7 +5,7 @@ I am a **Frontend Developer** and researcher at **Masaryk University**.
 ### What I’m Working On
 I am currently developing the **INJECT Exercise Platform**, a specialized tool for cybersecurity training and simulation.
 
-* **[INJECT Platform](https://inject.muni.cz/)** – Learn more about the project.
+* **[INJECT Exercise Platform](https://inject.muni.cz/)** – Learn more about the project.
 * **[Frontend Repository](https://gitlab.fi.muni.cz/inject/frontend)** – My main area of focus.
 * **[Documentation](https://docs.inject.muni.cz/)** – Deep dive into the platform's architecture.
 
