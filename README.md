@@ -27,6 +27,11 @@ I am currently developing the **INJECT Exercise Platform**, a specialized tool f
 
 ---
 
+### Education
+See my academic profile on the [MUNI website](https://www.muni.cz/lide/524958-marek-vesely).
+
+---
+
 ### Contact
 
 | Channel | Link |
@@ -34,4 +39,3 @@ I am currently developing the **INJECT Exercise Platform**, a specialized tool f
 | 💼 **LinkedIn** | [linkedin.com/in/marekvesely02](https://www.linkedin.com/in/marekvesely02/) |
 | 📸 **Instagram** | [@marekvesely02](https://www.instagram.com/marekvesely02/) |
 | 📧 **Email** | [marekvesely02@email.cz](mailto:marekvesely02@email.cz) |
-| 🏫 **Academic** | [MUNI Profile](https://www.muni.cz/lide/524958-marek-vesely) |
