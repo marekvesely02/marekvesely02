@@ -1,6 +1,6 @@
 # Hi there, I'm Marek! 👋
 
-I am a **Frontend Developer** and researcher at **Masaryk University**.
+I am a **Frontend Developer** and student at **Masaryk University**.
 
 ### What I’m Working On
 I am currently developing the **INJECT Exercise Platform**, a specialized tool for cybersecurity training and simulation.
