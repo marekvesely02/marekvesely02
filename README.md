@@ -1,8 +1,9 @@
 # Hi there, I'm Marek! 👋
 
-I am a **Frontend Developer** and student at **Masaryk University**.
+I am a **Frontend Developer** and a graduate of **Masaryk University**.
 
 ### What I’m Working On
+
 I am currently developing the **INJECT Exercise Platform**, a specialized tool for cybersecurity training and simulation.
 
 * **[INJECT Exercise Platform](https://inject.muni.cz/)** – Learn more about the project.
@@ -30,11 +31,13 @@ I am currently developing the **INJECT Exercise Platform**, a specialized tool f
 ### Education
 **Masaryk University, Faculty of Informatics**
 
-* **Master’s in Software Engineering** (2024 – Present)
-  * Specialization: *Design and development of software systems*
-* **Bachelor’s in Programming and Development** (Completed 2024)
-  * **Thesis:** *Analyst View for Instructors and Designers of Tabletop Exercises*
-  * 🏆 **Recipient of the Dean's Award** for an Outstanding Final Thesis.
+* **Master’s Degree in Software Engineering** (Completed 2026)
+  * **Specialization:** *Design and development of software systems*
+  * **Thesis:** *[Analytics of Shell Commands in Lab Exercises in the INJECT Exercise Platform](https://is.muni.cz/th/byhvd/)*
+  * 🏆 **Passed Summa Cum Laude**
+* **Bachelor’s Degree in Programming and Development** (Completed 2024)
+  * **Thesis:** *[Analyst View for Instructors and Designers of Tabletop Exercises](https://is.muni.cz/th/oo47p/)*
+  * 🏆 **Recipient of the Dean's Award** for an Outstanding Final Thesis
 
 ---
 
